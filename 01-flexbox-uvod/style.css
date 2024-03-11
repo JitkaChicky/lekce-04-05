@@ -17,7 +17,26 @@
     padding: 10px;
     border: 1px dashed red;
     background-color: #ffffcc;
+    display: flex;
+    
+}
+.ctverecek{
+    flex-basis: 25%;
+}
+.prvni {
+ order: 3;   
 }
 
+.druhy{
+    order: 2;   
+}
+
+.treti {
+    order: 1;   
+}
+
+.ctvrty {
+    order: 4;
+}
 /* ---------------------------------------------------- */
 
